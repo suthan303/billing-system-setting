@@ -1,0 +1,20 @@
+{
+  "title": "Billing System",
+  "print": {
+    "size": { "width": 400, "height": 1500 }
+  },
+  "delivery": ["Shop pick up", "Delivery "],
+  "cakeSize": ["Small", "Regular"],
+  "paymentMethod": [
+    "Full Paid (Bank Paid / Shop Paid)",
+    "Advance Paid",
+    "Cash on delivery"
+  ],
+  "shopCode": [
+    { "id": "E-01", "display": "Vihara Road Shop" },
+    { "id": "E-02", "display": "3rd Mile Post shop" },
+    { "id": "E-03", "display": "Anuradhapura Junction Shop" },
+    { "id": "E-04", "display": "Nelliady - Jaffna" }
+  ],
+  "branchDetails": ["ABC Pvt", "No 7", "ABC Line", "NC Area", "Tel: 07777777"]
+}
